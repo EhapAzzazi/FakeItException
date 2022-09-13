@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BqU+cj6bc6qJoIgwX++Afcb2xPhB+aEQ4CTreD6gPNpKKAqtjf+Tk0RL66SOZOoI8Hb7BtiD5pTD6EIW3e5dAw==",
+  "success": true,
+  "projectFilePath": "D:\\New Course\\Handle\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\عزازي\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
